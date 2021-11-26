@@ -1,4 +1,4 @@
-# to-do-list
+# Inventory Control Project
 
 ## Descrição do Projeto
 
